@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-natural-duration',
-    version='0.1',
+    version='0.142',
     packages=['natural_duration'],
     description='A human-readable duration form field for Django',
     long_description=README,
